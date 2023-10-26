@@ -1,0 +1,13 @@
+secret.py
+main.py.log
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/tradingCorePy1/FileContentIndex/d5d4c8d1-432e-4ea4-94c8-eceb3a2b5525.vsidx
+.vs/tradingCorePy1/v17/.wsuo
+.vscode/launch.json
+__pycache__/BinanceInteractions.cpython-310.pyc
+__pycache__/data_queue.cpython-310.pyc
+__pycache__/Exchange.cpython-310.pyc
+__pycache__/LocalCacheManager.cpython-310.pyc
+__pycache__/secret.cpython-310.pyc
+__pycache__/ws_server.cpython-310.pyc
